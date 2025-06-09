@@ -2,7 +2,8 @@
 
 I'm a former Physiology student, turned IT Professional, currently working as a NOC Analyst at a relatively large MSP here in New Zealand with a passion for Cybersecurity — specifically GRC.
 
-The purpose of this Github is to document my journey of levelling up as an IT Professional as well as develop skills to break into Cybersecurity. 
+The purpose of this Github is to document my journey of levelling up as an IT Professional as well as develop skills to break into Cybersecurity.
+I plan on creating a new blog post everytime I cover a new piece of content, whether that'll be learning more about GRC or diving into Pen Testing via HTB or THM.
 
 Feel free to connect!
 
