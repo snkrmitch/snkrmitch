@@ -12,6 +12,5 @@ Feel free to connect!
 
 ## Projects
 
-<a href="https://github.com/snkrmitch/-ISO-27001-Foundations">ISO 27001 Foundations Course</a> \
-<a href="https://github.com/snkrmitch/PinnacleAssuranceGroupISMS">Pinnacle Assurance Group ISMS</a>
-
+- **<a href="https://github.com/snkrmitch/-ISO-27001-Foundations">ISO 27001 Foundations Course</a>**
+  - <a href="https://github.com/snkrmitch/PinnacleAssuranceGroupISMS">Pinnacle Assurance Group ISMS</a>
